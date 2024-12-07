@@ -1,0 +1,16 @@
+{
+    "name": "linaresdev/smtpmail",
+    "description": "Envio de correo smtp para wordpress",
+    "type": "library",
+    "require": {
+        "phpmailer/phpmailer": "master"
+    },
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Ramon Linares",
+            "email": "linareslf@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
